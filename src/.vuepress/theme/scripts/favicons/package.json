@@ -10,7 +10,7 @@
   "author": "Chris Waring <chris@wwaves.co> (https://wwaves.co/)",
   "license": "MIT",
   "dependencies": {
-    "favicons": "^6.0.0",
+    "favicons": "^7.3.0",
     "fs-extra": "^9.0.0"
   }
 }
